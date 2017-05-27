@@ -1,6 +1,8 @@
 # interactivos17-viajesdeagua
 # Descripción del proyecto
-![WTF](https://media.giphy.com/media/3og0ILbTnaClt4PU3u/giphy.gif)
+![Logo Viajes de Agua](http://medialab-prado.es/mmedia/20/20079/500_0.jpg)
+
+
 ### Idea
 Blablablbalbla mi arma
 
