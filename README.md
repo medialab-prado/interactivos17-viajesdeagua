@@ -51,14 +51,32 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 + Inspiraciones
 
 # Diario
-### Dia 1
+### Viernes 19 de mayo
 manos a la obra
-### Día 2
+### Sábado 20 de mayo
 nos hemos vuelto lokers
-### Día 3
+### Domingo 21 de mayo
 sesion crítica, me muero
-### Día 4
+### Lunes 22 de mayo
 catarsis
+### Martes 23 de mayo
+blalba
+### Miércoles 24 de mayo
+blalbbla
+### Jueves 25 de mayo
+blblablba
+### Viernes 26 de mayo
+blablba
+### Sábado 27 de mayo
+blablba
+### Domingo 28 de mayo
+blablblba
+### Lunes 29 de mayo
+balblba
+### Martes 30 de mayo
+blalb
+### Miércoles 31 de mayo
+blalblba
 
 # más cositas que me tienen que pasar los del grupo
 ### código
