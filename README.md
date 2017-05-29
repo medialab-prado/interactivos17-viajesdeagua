@@ -45,14 +45,13 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 + Link a videos
 + Link a planos
 
-### Otros repositorios
-+ Referencias
-++ El Viaje de aguas de Amaniel. Pedro Martínez Santos. ISBN-10: 84-616-3591-7
+### Referencias
++ El Viaje de aguas de Amaniel. Pedro Martínez Santos. ISBN-10: 84-616-3591-7
 
-+ Fuentes
-+ Inspiraciones
-++ BSO colaborativa del proyecto en spotify (canciones de agua): (https://play.spotify.com/user/v10/playlist/1KUH5s31cCdFVSL5mEpgtV?play=true&utm_source=open.spotify.com&utm_medium=open)
-++ Mensajes de agua. Masaru Emoto. ISBN: 84-86403-68-9
+### Fuentes 
+### Inspiraciones 
++ BSO colaborativa del proyecto en spotify (canciones de agua): (https://play.spotify.com/user/v10/playlist/1KUH5s31cCdFVSL5mEpgtV?play=true&utm_source=open.spotify.com&utm_medium=open)
++ Mensajes de agua. Masaru Emoto. ISBN: 84-86403-68-9
 
 # Diario
 ### Viernes 19 de mayo
