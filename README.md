@@ -38,6 +38,7 @@ paso 1, paso 2, paso 3
 
 # Recursos
 ### Repositorios del proyecto
++ Diario visual del proyecto en instagram: (https://www.instagram.com/viajesdeagua/)
 + Link a documentación y material gráfico el Google Drive: (https://drive.google.com/drive/folders/0B9ZUP7obaQuuMm5DX1VUa2o0UzQ?usp=sharing)
 + Link a fotos
 + Link a videos
