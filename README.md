@@ -7,7 +7,7 @@ Para proponer una noción de viaje y de paseo diferente, llevaremos a cabo una d
 ### Idea
 Aunque aquí no hay playa, la historia de la ciudad que "sobre agua [fue] edificada" está unida a su origen. Madrid debe su nombre a un asentamiento árabe "Magrit", que significa cauce, que antes fue uno visigodo "Matrice" y cuyo significado es arroyo. De su memoria también recuperamos para el título del proyecto, Viajes de agua, el nombre dado al conjunto de conducciones subterráneas que canalizaban el agua de diferentes acuíferos del terreno ocupado por la ciudad en la época medieval.
 "Bajo los adoquines, la playa", la que buscaban los revolucionarios franceses en mayo del 68, encarna un mensaje sutil que lucha contra lo establecido. En paralelo y por debajo de lo visible, lo rígido sucede lo oculto, el fluir del agua que en su propia deriva esconde otras nociones de recorrer la ciudad. La idea contenida en esta frase, condensa la visión de esta propuesta que pone el punto de partida en un procedimiento situacionista, como técnica de experimentación, que va acompañado de la práctica lúdica y constructiva.
-![primer prototipo](https://www.instagram.com/p/BUUgfaYlOJo/?taken-by=viajesdeagua) ![tubosdeensayo y medidores ph](https://www.instagram.com/p/BUUh9XvFS0E/?taken-by=viajesdeagua)
+![primer prototipo](https://drive.google.com/open?id=0B3K1BDw8QEBsX0hGMTBST3pxOFE) ![tubosdeensayo y medidores ph](https://drive.google.com/open?id=0B3K1BDw8QEBsdXFrZUF2X25ZeTA)
 
 ### Implementación del proyecto
 paso 1, paso 2, paso 3
