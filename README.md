@@ -42,8 +42,7 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 ### Repositorios del proyecto
 + Diario visual del proyecto en instagram: (https://www.instagram.com/viajesdeagua/)
 + Link a documentación y material gráfico el Google Drive: (https://drive.google.com/drive/folders/0B9ZUP7obaQuuMm5DX1VUa2o0UzQ?usp=sharing)
-+ Link a videos (https://lh5.googleusercontent.com/aUfyDQ5r6yhNb-VkWydjkFJd8zQki9AODjpSqIT2_cPVadL9Atutpzx7pkQDnhraFh47a3H40JChTLc=w1440-h721)
-+ Link a planos
++ Link a videos ![Fuente](https://lh5.googleusercontent.com/aUfyDQ5r6yhNb-VkWydjkFJd8zQki9AODjpSqIT2_cPVadL9Atutpzx7pkQDnhraFh47a3H40JChTLc=w1440-h721)
 
 ### Referencias
 + El Viaje de aguas de Amaniel. Pedro Martínez Santos. ISBN-10: 84-616-3591-7
