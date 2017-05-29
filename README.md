@@ -23,7 +23,7 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 + Virginia Díez Gobernado es activista y productora cultural. Le interesan la comunicación, el audiovisual, la cultura libre y los feminismos. Diseña y coordina proyectos relacionados con la cultura digital y programas formativos DIWO. Es co-directora del ccVAD Valladolid Creative Commons Film Festival y realiza proyectos performativos, como #AkelarreTransfeminista, que combinan técnicas como el spoken workd, la música en directo o el remix de video para cuestionar y deconstruir la figura del sujeto mujer generando un discurso transfeminista con intenciones artísticas, críticas y didácticas. (http://culturatorium.es/)
 + Pedro Cortés Nieves es arquitecto e investigador de los espacios de la representación política en la ciudad, que limitan las posibilidades de diversidad en el espacio público. Hacker espacial, trabaja con ficciones que muestren mostrar partes de lo real ocultas en el espacio de la representación, recuperando  la capacidad que todo actor posee en la modificación y (re)generación del espacio. (http://www.pedrocortes.net/)
 + Mario 
-
++ Jonathan
 
 # Instrucciones
 ### Montaje y desmontaje
@@ -47,20 +47,24 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 
 ### Otros repositorios
 + Referencias
+++ El Viaje de aguas de Amaniel. Pedro Martínez Santos. ISBN-10: 84-616-3591-7
+
 + Fuentes
 + Inspiraciones
+++ BSO colaborativa del proyecto en spotify (canciones de agua): (https://play.spotify.com/user/v10/playlist/1KUH5s31cCdFVSL5mEpgtV?play=true&utm_source=open.spotify.com&utm_medium=open)
+++ Mensajes de agua. Masaru Emoto. ISBN: 84-86403-68-9
 
 # Diario
 ### Viernes 19 de mayo
-manos a la obra
+Manos a la obra. Se va conformando el equipo. Primera sesión crítica y primeras dudas y descartes (app). Centro de educación ambiental "el Huerto del Retiro". Deriva con vino por el parque del Retiro. Primeros prototipos.
 ### Sábado 20 de mayo
-nos hemos vuelto lokers
+Conceptualización del proyecto. Mapas, zona de estudio acotada, vamos a medir el ph. del agua. Creamos nuestro diario visual en instagram.
 ### Domingo 21 de mayo
 sesion crítica, me muero
 ### Lunes 22 de mayo
-catarsis
+Creamos una lista en spotify.
 ### Martes 23 de mayo
-blalba
+Let's fake it. Mayrit.
 ### Miércoles 24 de mayo
 blalbbla
 ### Jueves 25 de mayo
