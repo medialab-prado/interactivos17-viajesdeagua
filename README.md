@@ -7,7 +7,7 @@ Para proponer una noción de viaje y de paseo diferente, llevaremos a cabo una d
 ### Idea
 Aunque aquí no hay playa, la historia de la ciudad que "sobre agua [fue] edificada" está unida a su origen. Madrid debe su nombre a un asentamiento árabe "Magrit", que significa cauce, que antes fue uno visigodo "Matrice" y cuyo significado es arroyo. De su memoria también recuperamos para el título del proyecto, Viajes de agua, el nombre dado al conjunto de conducciones subterráneas que canalizaban el agua de diferentes acuíferos del terreno ocupado por la ciudad en la época medieval.
 "Bajo los adoquines, la playa", la que buscaban los revolucionarios franceses en mayo del 68, encarna un mensaje sutil que lucha contra lo establecido. En paralelo y por debajo de lo visible, lo rígido sucede lo oculto, el fluir del agua que en su propia deriva esconde otras nociones de recorrer la ciudad. La idea contenida en esta frase, condensa la visión de esta propuesta que pone el punto de partida en un procedimiento situacionista, como técnica de experimentación, que va acompañado de la práctica lúdica y constructiva.
-![primer prototipo](https://lh6.googleusercontent.com/9hbP5OEM9xbYazW0bV2R3MTBtqYzsvMXRoJ_wsxS3qNYXNqErXmVnYgre405FrnBeMZjP0Q8lyfNnaU=w1441-h718) ![tubosdeensayo y medidores ph](https://lh3.googleusercontent.com/wNYmfAmRTgVBbfglZ2K0t4VxJh9y2HoYEMbyITsY-hYxUuenYk4KTJXsbCM_lpfTQYYyN9-YP2Ym3JQ=w1441-h718)
+![primer prototipo](https://lh6.googleusercontent.com/9hbP5OEM9xbYazW0bV2R3MTBtqYzsvMXRoJ_wsxS3qNYXNqErXmVnYgre405FrnBeMZjP0Q8lyfNnaU=w1441-h718) 
 
 ### Implementación del proyecto
 paso 1, paso 2, paso 3
@@ -24,6 +24,8 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 + **Pedro Cortés Nieves** es arquitecto e investigador de los espacios de la representación política en la ciudad, que limitan las posibilidades de diversidad en el espacio público. Hacker espacial, trabaja con ficciones que muestren mostrar partes de lo real ocultas en el espacio de la representación, recuperando  la capacidad que todo actor posee en la modificación y (re)generación del espacio. (http://www.pedrocortes.net/)
 + Mario 
 + Jonathan
+
+![tubosdeensayo y medidores ph](https://lh3.googleusercontent.com/wNYmfAmRTgVBbfglZ2K0t4VxJh9y2HoYEMbyITsY-hYxUuenYk4KTJXsbCM_lpfTQYYyN9-YP2Ym3JQ=w1441-h718)
 
 # Instrucciones
 ### Montaje y desmontaje
@@ -42,25 +44,26 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 ### Repositorios del proyecto
 + Diario visual del proyecto en instagram: (https://www.instagram.com/viajesdeagua/)
 + Link a documentación y material gráfico el Google Drive: (https://drive.google.com/drive/folders/0B9ZUP7obaQuuMm5DX1VUa2o0UzQ?usp=sharing)
-+ Link a videos ![Fuente](https://lh5.googleusercontent.com/aUfyDQ5r6yhNb-VkWydjkFJd8zQki9AODjpSqIT2_cPVadL9Atutpzx7pkQDnhraFh47a3H40JChTLc=w1440-h721)
++ Link a videos 
 
 ### Referencias
 + El Viaje de aguas de Amaniel. Pedro Martínez Santos. ISBN-10: 84-616-3591-7
 
 ### Fuentes 
++ Wizard estilo mapa geolocalización: https://mapstyle.withgoogle.com/
 ### Inspiraciones 
 + BSO colaborativa del proyecto en spotify (canciones de agua): (https://play.spotify.com/user/v10/playlist/1KUH5s31cCdFVSL5mEpgtV?play=true&utm_source=open.spotify.com&utm_medium=open)
 + Mensajes de agua. Masaru Emoto. ISBN: 84-86403-68-9
 
 # Diario
 ### Viernes 19 de mayo
-Manos a la obra. Se va conformando el equipo. Primera sesión crítica y primeras dudas y descartes (app). Centro de educación ambiental "el Huerto del Retiro". Deriva con vino por el parque del Retiro. Primeros prototipos.
+Manos a la obra. Se va conformando el equipo. Primera sesión crítica y primeras dudas y descartes (app). Centro de educación ambiental "el Huerto del Retiro". Deriva con vino por el parque del Retiro. Noria. Primeros prototipos.
 ### Sábado 20 de mayo
-Conceptualización del proyecto. Mapas, zona de estudio acotada, vamos a medir el ph. del agua. Creamos nuestro diario visual en instagram.
+Conceptualización del proyecto. Mapas, zona de estudio acotada, vamos a medir el ph. del agua. Laboratorio  portátil de hamilton. Creamos nuestro diario visual en instagram. Referencias.  Masaru Emoto y sus imágenes de agua cristalizada, viajes de agua de amaniel, etc.sistema de canates de Madrid de 1750
 ### Domingo 21 de mayo
 sesion crítica, me muero
 ### Lunes 22 de mayo
-Creamos una lista en spotify.
+Creamos una lista en spotify. Primer prototipo de mapa. 
 ### Martes 23 de mayo
 Let's fake it. Mayrit.
 ### Miércoles 24 de mayo
@@ -72,7 +75,7 @@ blablba
 ### Sábado 27 de mayo
 blablba
 ### Domingo 28 de mayo
-blablblba
+Pruebas app tablet.
 ### Lunes 29 de mayo
 balblba
 ### Martes 30 de mayo
