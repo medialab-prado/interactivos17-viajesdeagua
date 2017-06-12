@@ -24,7 +24,7 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 + **Pedro Cortés Nieves** es arquitecto e investigador de los espacios de la representación política en la ciudad, que limitan las posibilidades de diversidad en el espacio público. Hacker espacial, trabaja con ficciones que muestren mostrar partes de lo real ocultas en el espacio de la representación, recuperando  la capacidad que todo actor posee en la modificación y (re)generación del espacio. (http://www.pedrocortes.net/)
 + Mario 
 + Jonathan
-
+(https://drive.google.com/file/d/0BylaNRtQaFxyV3ZvNXI5cVZLb00/view?usp=sharing)
 ![tubosdeensayo y medidores ph](https://lh3.googleusercontent.com/wNYmfAmRTgVBbfglZ2K0t4VxJh9y2HoYEMbyITsY-hYxUuenYk4KTJXsbCM_lpfTQYYyN9-YP2Ym3JQ=w1441-h718)
 
 # Instrucciones
