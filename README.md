@@ -58,6 +58,7 @@ paso 3
 
 # Instrucciones
 ### Montaje y desmontaje
+![](slides/31 exposición 1.jpg)
 + Qué material se necesita
 + Cómo se ensambla
 + En qué puntos hay que tener cuidado
