@@ -65,14 +65,26 @@ paso 3
  - Cartel informativo: A3 a color
  - Mapa: impreso por ambas caras A3 a color
  - Instrucciones: A4 a color
- - Video: duración: 3 min. en bucle reproducido en pantalla
+ - Video: duración: 3 min. en bucle reproducido en pantalla de ordenador
  - CPU: reproductor de video y alimentador USB
  - Capitore: Dispositivo que contiene altavoces, tablet y arduino
  
-+ Qué material se necesita
-+ Cómo se ensambla
+Ensamblaje:
+ - El dispositivo se conecta mediante USB a la CPU que actua como alimentador.
+ - Los altaves van conectados a la tablet y ardunino.
+ 
 + En qué puntos hay que tener cuidado
+ - Arduino ???
+ 
 ### Funcionamiento
+Encendido:
+- Tablet: Encender la tablet y activar la página web o aplicicación. En el escritorio hay accesos directos. 
+Es necesaria una conexión wifi para la lectura de datos. El usuario podrá navegar por la web del proyecto visionando mapas, fotos y videos.
+- Arduino: ???
+- Altavoces: Van interconectados a la tablet y el arduido y reproducen simultáneamente sonidos de ambos dispositivos.
+Encendio de altavoces y funciones:
+![](slides/31FuncioEncendido.JPG)
+
 + Cómo se enciende y cómo se apaga
 + Qué hace exactamente // Cómo interactuar con el dispositivo 
 ### Mantenimiento
