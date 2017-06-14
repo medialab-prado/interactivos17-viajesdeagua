@@ -1,4 +1,4 @@
-# interactivos17-viajesdeagua
+# Interactivos17 - Viajes de agua
 
 ![Logo Viajes de Agua](designs/images/viajesdeagua-img-logo.jpg)
 - [Descripción del proyecto](#descripción-del-proyecto)
