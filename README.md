@@ -43,8 +43,12 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 + arduino
 ### diseño
 + fab lab
+
+![](designs/fablab/viajesdeagua-capirote-planos.jpg)
+
 + mapas
 ![](designs/images/viajesdeagua-mapa.jpg)
+
 + etc
 ### Repositorios del proyecto
 + Diario visual del proyecto en instagram: https://www.instagram.com/viajesdeagua/
