@@ -1,6 +1,6 @@
 # interactivos17-viajesdeagua
 
-![Logo Viajes de Agua](http://medialab-prado.es/mmedia/20/20079/500_0.jpg)
+![Logo Viajes de Agua](designs/images/viajesdeagua-img-logo.jpg)
 
 # Descripción del proyecto
 
