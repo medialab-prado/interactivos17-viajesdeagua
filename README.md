@@ -1,6 +1,21 @@
 # interactivos17-viajesdeagua
 
 ![Logo Viajes de Agua](designs/images/viajesdeagua-img-logo.jpg)
+- [Descripción del proyecto](#descripción-del-proyecto)
+     - [Idea](#idea)
+     - [Implementación](#implementación)
+- [Diario del proceso](#diario-del-proceso)
+- [Instrucciones](#instrucciones)
+     - [Instrucciones de montaje y desmontaje](#instrucciones-de-montaje-y-desmontaje)
+     - [Instrucciones de funcionamiento](#instrucciones-de-funcionamiento)
+     - [Instrucciones de mantenimiento](#instrucciones-de-mantenimiento)
+- [Recursos](#recursos)
+     - [Repositorios del proyecto:](#repositorios-del-proyecto)
+     - [Bibliografía](#bibliografía)
+- [Equipo](#equipo)
+     - [Promotores](#promotores)
+     - [Colaboradores](#colaboradores)
+- [Licencia](#licencia)   
 
 # Descripción del proyecto
 
