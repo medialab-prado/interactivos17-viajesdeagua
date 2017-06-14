@@ -31,7 +31,7 @@ paso 3
 
 ![](designs/images/viajesdeagua-mapa-caraB.jpg)
 
-# Diario
+# Diario del proceso
 **Viernes 19.** Se va conformando el equipo. Con la primera sesión crítica, aparecen las primeras dudas. Por recomendación de los mentores salimos a la deriva por el parque del Retiro. Buscamos inspiración en el "Huerto del Retiro" y la antigua noria. Imaginamos los primeros prototipos.
 
 **Sábado 20.** Manos a la obra. Conceptualización del proyecto: estudio de cartografía georeferenciada, laboratorio portátil de Hamilton, zona de estudio acotada. Creamos nuestro diario visual en Instagram. 
