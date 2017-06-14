@@ -85,14 +85,14 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 
 ### Referencias
 + "Teoría de la deriva" de Guy Debord. 1958 https://www.sindominio.net/ash/is0209.htm
-+ "El Viaje de aguas de Amaniel" de Pedro Martínez Santos. ISBN-10: 84-616-3591-7
-Los Viajes de agua de Madrid: https://www.youtube.com/watch?v=iIUlyryQ-mA
-El paseo de Jane en Madrid: https://elpaseodejane.wordpress.com/
-Caminar como práctica anarquista: http://linier.org/ - http://francisconavamuel.net/
-Antonio R. Montesinos: http://www.armontesinos.net/portfolio_category/caminar-y-neocartografia/
++ El paseo de Jane en Madrid: https://elpaseodejane.wordpress.com/
++ Caminar como práctica anarquista: http://linier.org/ - http://francisconavamuel.net/
++ Antonio R. Montesinos: http://www.armontesinos.net/portfolio_category/caminar-y-neocartografia/
 
 ### Fuentes 
++ "El Viaje de aguas de Amaniel" de Pedro Martínez Santos. ISBN-10: 84-616-3591-7
 + Wizard estilo mapa geolocalización: https://mapstyle.withgoogle.com/
++ Los Viajes de agua de Madrid: https://www.youtube.com/watch?v=iIUlyryQ-mA
 
 ### Inspiraciones 
 + BSO colaborativa de "canciones de agua": (https://play.spotify.com/user/v10/playlist/1KUH5s31cCdFVSL5mEpgtV?play=true&utm_source=open.spotify.com&utm_medium=open)
