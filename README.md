@@ -23,7 +23,6 @@ paso 1, paso 2, paso 3
 Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc. 
 (Nota: los textos explicativos han de ser claros y suficientes para que otra persona pudiera retomar este proyecto)
 
-![]()
 (https://drive.google.com/file/d/0BylaNRtQaFxyV3ZvNXI5cVZLb00/view?usp=sharing)
 
 # Instrucciones
@@ -45,6 +44,7 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 ### diseño
 + fab lab
 + mapas
+![](designs/images/viajesdeagua-mapa.jpg)
 + etc
 ### Repositorios del proyecto
 + Diario visual del proyecto en instagram: https://www.instagram.com/viajesdeagua/
