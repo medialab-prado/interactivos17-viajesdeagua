@@ -40,6 +40,8 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 + Utiliza materiales deshechables? tinta? papel? otros?
 + Si deja de fucnionar cuál sería la lista de errores más corrientes / comunes
 
+![](designs/images/capirote-prototipo.jpg)
+
 # Recursos
 ### código
 + arduino
