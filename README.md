@@ -1,10 +1,10 @@
+![Logo Viajes de Agua](designs/images/viajesdeagua-img-logo.jpg)
 # Interactivos17 - Viajes de agua
 - [Descripción del proyecto](#descripción-del-proyecto)
 - [Diario del proceso](#diario-del-proceso)
 - [Instrucciones](#instrucciones)
 - [Recursos](#recursos)
 - [Equipo](#equipo)
-![Logo Viajes de Agua](designs/images/viajesdeagua-img-logo.jpg)
 
 # Descripción del proyecto
 
