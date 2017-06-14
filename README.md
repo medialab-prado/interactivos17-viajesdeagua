@@ -19,9 +19,11 @@ Desde esa perspectiva, el juego se convirtió en experiencia ritual, cuyo maestr
 Aunque aquí no hay playa, la historia de la ciudad que "sobre agua [fue] edificada" está unida a su origen. Madrid debe su nombre a un asentamiento árabe "Magrit", que significa cauce, que antes fue uno visigodo "Matrice" y cuyo significado es arroyo. De su memoria también recuperamos para el título del proyecto, Viajes de agua, el nombre dado al conjunto de conducciones subterráneas que canalizaban el agua de diferentes acuíferos del terreno ocupado por la ciudad en la época medieval.
 
 ### Implementación del proyecto
-paso 1, paso 2, paso 3
-Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc. 
+Explicación de cómo se ha hecho: materiales, procesos, conexiones, etc. 
 (Nota: los textos explicativos han de ser claros y suficientes para que otra persona pudiera retomar este proyecto)
+paso 1
+paso 2 
+paso 3
 
 ![](designs/images/viajesdeagua-mapa-caraB.jpg)
 
