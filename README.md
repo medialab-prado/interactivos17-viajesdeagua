@@ -61,6 +61,14 @@ paso 3
 
  ![](slides/31exposicion1.JPG)
  
+ Materiales de exposición:
+ - Cartel informativo: A3 a color
+ - Mapa: impreso por ambas caras A3 a color
+ - Instrucciones: A4 a color
+ - Video: duración: 3 min. en bucle reproducido en pantalla
+ - CPU: reproductor de video y alimentador USB
+ - Capitore: Dispositivo que contiene altavoces, tablet y arduino
+ 
 + Qué material se necesita
 + Cómo se ensambla
 + En qué puntos hay que tener cuidado
