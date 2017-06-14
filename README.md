@@ -84,15 +84,20 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 + Link a videos: https://www.youtube.com/channel/UC9-pilYvurbdk7dpdbFdIiA
 
 ### Referencias
++ "Teoría de la deriva" de Guy Debord. 1958 https://www.sindominio.net/ash/is0209.htm
 + "El Viaje de aguas de Amaniel" de Pedro Martínez Santos. ISBN-10: 84-616-3591-7
-+ "Mensajes del agua. La belleza oculta del agua" de Masaru Emoto.
+Los Viajes de agua de Madrid: https://www.youtube.com/watch?v=iIUlyryQ-mA
+El paseo de Jane en Madrid: https://elpaseodejane.wordpress.com/
+Caminar como práctica anarquista: http://linier.org/ - http://francisconavamuel.net/
+Antonio R. Montesinos: http://www.armontesinos.net/portfolio_category/caminar-y-neocartografia/
 
 ### Fuentes 
 + Wizard estilo mapa geolocalización: https://mapstyle.withgoogle.com/
 
 ### Inspiraciones 
-+ BSO colaborativa del proyecto en spotify (canciones de agua): (https://play.spotify.com/user/v10/playlist/1KUH5s31cCdFVSL5mEpgtV?play=true&utm_source=open.spotify.com&utm_medium=open)
-+ Mensajes de agua. Masaru Emoto. ISBN: 84-86403-68-9
++ BSO colaborativa de "canciones de agua": (https://play.spotify.com/user/v10/playlist/1KUH5s31cCdFVSL5mEpgtV?play=true&utm_source=open.spotify.com&utm_medium=open)
++ "Mensajes de agua" de Masaru Emoto. ISBN: 84-86403-68-9
++ “Here” de Richard McGuire..http://www.richard-mcguire.com/
 
 ### Equipo
 + **Beatriz Page Valero** trabaja en diseño, arte e investigación sobre prácticas y creación artísticas en torno a la realidad virtual y la interactividad. Actualmente colabora con La vanguardia en la sección digital de Tecnología. http://beatrizpage.com/
