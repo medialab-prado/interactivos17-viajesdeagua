@@ -25,51 +25,6 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 
 ![](designs/images/viajesdeagua-mapa-caraB.jpg)
 
-(https://drive.google.com/file/d/0BylaNRtQaFxyV3ZvNXI5cVZLb00/view?usp=sharing)
-
-# Instrucciones
-### Montaje y desmontaje
-+ Qué material se necesita
-+ Cómo se ensambla
-+ En qué puntos hay que tener cuidado
-### Funcionamiento
-+ Cómo se enciende y cómo se apaga
-+ Qué hace exactamente // Cómo interactuar con el dispositivo 
-### Mantenimiento
-+ Tiene bateria y hay que cargarla? cada cuánto?
-+ Utiliza materiales deshechables? tinta? papel? otros?
-+ Si deja de fucnionar cuál sería la lista de errores más corrientes / comunes
-
-![](designs/images/capirote-prototipo.jpg)
-
-# Recursos
-### código
-+ arduino
-### diseño
-+ fab lab
-
-![](designs/fablab/viajesdeagua-capirote-planos.jpg)
-
-+ mapas
-![](designs/images/viajesdeagua-mapa.jpg)
-
-+ etc
-### Repositorios del proyecto
-+ Diario visual del proyecto en instagram: https://www.instagram.com/viajesdeagua/
-+ Link a documentación y material gráfico el Google Drive: https://drive.google.com/drive/folders/0B9ZUP7obaQuuMm5DX1VUa2o0UzQ?usp=sharing
-+ Link a videos: https://www.youtube.com/channel/UC9-pilYvurbdk7dpdbFdIiA
-
-### Referencias
-+ "El Viaje de aguas de Amaniel" de Pedro Martínez Santos. ISBN-10: 84-616-3591-7
-+ "Mensajes del agua. La belleza oculta del agua" de Masaru Emoto.
-
-### Fuentes 
-+ Wizard estilo mapa geolocalización: https://mapstyle.withgoogle.com/
-
-### Inspiraciones 
-+ BSO colaborativa del proyecto en spotify (canciones de agua): (https://play.spotify.com/user/v10/playlist/1KUH5s31cCdFVSL5mEpgtV?play=true&utm_source=open.spotify.com&utm_medium=open)
-+ Mensajes de agua. Masaru Emoto. ISBN: 84-86403-68-9
-
 # Diario
 **Viernes 19.** Se va conformando el equipo. Con la primera sesión crítica, aparecen las primeras dudas. Por recomendación de los mentores salimos a la deriva por el parque del Retiro. Buscamos inspiración en el "Huerto del Retiro" y la antigua noria. Imaginamos los primeros prototipos.
 
@@ -94,6 +49,50 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 **Martes 30.** Recorridos por fuentes y recogida de muestras de agua.
 
 **Miércoles 31.** Último día. Montaje del prototipo y prueba en directo durante la presentación final del proyecto.
+
+# Instrucciones
+### Montaje y desmontaje
++ Qué material se necesita
++ Cómo se ensambla
++ En qué puntos hay que tener cuidado
+### Funcionamiento
++ Cómo se enciende y cómo se apaga
++ Qué hace exactamente // Cómo interactuar con el dispositivo 
+### Mantenimiento
++ Tiene bateria y hay que cargarla? cada cuánto?
++ Utiliza materiales deshechables? tinta? papel? otros?
++ Si deja de fucnionar cuál sería la lista de errores más corrientes / comunes
+
+![](designs/images/capirote-prototipo.jpg)
+
+# Recursos
+### código
++ arduino
+### diseño
++ Fablab: fabricación del prototipo
+
+![](designs/fablab/viajesdeagua-capirote-planos.jpg)
+
++ Mapas: desarrollo del mapa a partir del estudio de la cartografía hidrogeológica e histórica de Madrid
+
+![](designs/images/viajesdeagua-mapa.jpg)
+
+
+### Repositorios del proyecto
++ Diario visual del proyecto en instagram: https://www.instagram.com/viajesdeagua/
++ Link a documentación y material gráfico el Google Drive: https://drive.google.com/drive/folders/0B9ZUP7obaQuuMm5DX1VUa2o0UzQ?usp=sharing
++ Link a videos: https://www.youtube.com/channel/UC9-pilYvurbdk7dpdbFdIiA
+
+### Referencias
++ "El Viaje de aguas de Amaniel" de Pedro Martínez Santos. ISBN-10: 84-616-3591-7
++ "Mensajes del agua. La belleza oculta del agua" de Masaru Emoto.
+
+### Fuentes 
++ Wizard estilo mapa geolocalización: https://mapstyle.withgoogle.com/
+
+### Inspiraciones 
++ BSO colaborativa del proyecto en spotify (canciones de agua): (https://play.spotify.com/user/v10/playlist/1KUH5s31cCdFVSL5mEpgtV?play=true&utm_source=open.spotify.com&utm_medium=open)
++ Mensajes de agua. Masaru Emoto. ISBN: 84-86403-68-9
 
 ### Equipo
 + **Beatriz Page Valero** trabaja en diseño, arte e investigación sobre prácticas y creación artísticas en torno a la realidad virtual y la interactividad. Actualmente colabora con La vanguardia en la sección digital de Tecnología. http://beatrizpage.com/
