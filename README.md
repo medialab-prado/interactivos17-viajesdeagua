@@ -78,11 +78,10 @@ Ensamblaje:
  
 ### Funcionamiento
 Encendido:
+- Altavoces: Van interconectados a la tablet y el arduido y reproducen simultáneamente sonidos de ambos dispositivos.
 - Tablet: Encender la tablet y activar la página web o aplicicación. En el escritorio hay accesos directos. 
 Es necesaria una conexión wifi para la lectura de datos. El usuario podrá navegar por la web del proyecto visionando mapas, fotos y videos.
 - Arduino: ???
-- Altavoces: Van interconectados a la tablet y el arduido y reproducen simultáneamente sonidos de ambos dispositivos.
-Encendio de altavoces y funciones:
 
 ![](slides/31FuncioEncendidoT.jpg)
 
