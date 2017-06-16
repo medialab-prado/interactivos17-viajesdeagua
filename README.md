@@ -70,7 +70,7 @@ paso 3
  - Capitore: Dispositivo que contiene altavoces, tablet y arduino
  
 Ensamblaje:
- - El dispositivo se conecta mediante USB a la CPU que actua como alimentador.
+ - El dispositivo se conecta mediante 3 USB a la CPU que actua como alimentador.
  - Los altaves van conectados a la tablet y ardunino.
  
 + En qué puntos hay que tener cuidado
@@ -80,17 +80,22 @@ Ensamblaje:
 Encendido:
 - Altavoces: Van interconectados a la tablet y el arduido y reproducen simultáneamente sonidos de ambos dispositivos.
 - Tablet: Encender la tablet y activar la página web o aplicicación. En el escritorio hay accesos directos. 
-Es necesaria una conexión wifi para la lectura de datos. El usuario podrá navegar por la web del proyecto visionando mapas, fotos y videos.
+Es necesaria una conexión wifi para la lectura de datos.
 - Arduino: ???
 
 ![](slides/31FuncioEncendidoT.jpg)
 
-+ Cómo se enciende y cómo se apaga
-+ Qué hace exactamente // Cómo interactuar con el dispositivo 
+Interacción:
+- Documentación: Videos, mapas e información del proyecto.
+- Tablet: El usuario podrá navegar por la web del proyecto visionando mapas, fotos y videos.
+- Arduino: El usuario podrá medir los diferentes parámetros del agua contenida en los tubos de ensayo. Para ello tendrá que introducir el sensor negro en los diferentes tubos con agua y en la pantalla LCD del arduino aparecerán los valores. Apartir de estos valores el sonido que emiten los altavoces variará ligeramente. También se puede interactuara en el botón negro del arduino, girándolo aparecerán los distintos valores de medición que se realizan: PH, humedad y gases.
+
 ### Mantenimiento
-+ Tiene bateria y hay que cargarla? cada cuánto?
-+ Utiliza materiales deshechables? tinta? papel? otros?
-+ Si deja de fucnionar cuál sería la lista de errores más corrientes / comunes
+- Encender la CPU, pantalla y tablet.
+- Ver que la tablet tenga conexión wifi.
+- Ver que los sensores de humedad y demás están mostrando sus datos en la pantalla LCD.
+- Ver que el altavoz esté conectado, en modo LINEIN, y con volumen bajo para no molestar. 
+- Si deja de fucncionar cuál sería la lista de errores más corrientes / comunes: Ver que que el cable de audio sigue bien conectado.
 
 ![](designs/images/capirote-prototipo.jpg)
 
