@@ -54,8 +54,8 @@ Investigaciones previas y mapas de partida:
 ![](slides/0dv28.jpg)
 **Lunes 29.** Versión final del prototipo: "Capirote" en cartón.
 ![](slides/0dv29.jpg)
-**Martes 30.** Recorridos por fuentes y recogida de muestras de agua.
-
+**Martes 30.** Recorridos por las fuentes, recogida de muestras de agua, documentación y corte láser del capirote en madera.
+![](slides/0dv30.jpg)
 **Miércoles 31.** Último día. Montaje del prototipo y prueba en directo durante la presentación final del proyecto.
 
 # Instrucciones
