@@ -44,8 +44,8 @@ Investigaciones previas y mapas de partida:
 ![](slides/0dv23.jpg)
 **Miércoles 24.** Viaje de agua por la calle Santa Isabel, Plaza de Antón Martín, calle de Santa Ana y Plaza de Lavapiés.
 ![](slides/0dv24.jpg)
-**Jueves 25.** Presentación del estado del proyecto. Segunda sesión crítica. Probando la app de Mario por primera vez por el camino, algunas fuentes olvidadas.
-
+**Jueves 25.** Presentación del estado del proyecto. Segunda sesión crítica. Desarrollo de Arduino y probando la app de Mario por primera vez por el camino, algunas fuentes olvidadas.
+![](slides/0dv25.jpg)
 **Viernes 26.** Primeras pruebas del prototipo. 
 
 **Sábado 27.** bla, bla, bla
