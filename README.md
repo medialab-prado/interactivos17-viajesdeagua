@@ -47,7 +47,7 @@ Investigaciones previas y mapas de partida:
 **Jueves 25.** Presentación del estado del proyecto. Segunda sesión crítica. Desarrollo de Arduino y probando la app de Mario por primera vez por el camino, algunas fuentes olvidadas.
 ![](slides/0dv25.jpg)
 **Viernes 26.** Primeras pruebas del prototipo. 
-
+![](slides/0dv26.jpg)
 **Sábado 27.** bla, bla, bla
 
 **Domingo 28.** Nuevos mapas. Pruebas de app con la tablet.
