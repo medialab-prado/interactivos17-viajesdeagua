@@ -90,6 +90,8 @@ Interacción:
 - Tablet: El usuario podrá navegar por la web del proyecto visionando mapas, fotos y videos.
 - Arduino: El usuario podrá medir los diferentes parámetros del agua contenida en los tubos de ensayo. Para ello tendrá que introducir el sensor negro en los diferentes tubos con agua y en la pantalla LCD del arduino aparecerán los valores. Apartir de estos valores el sonido que emiten los altavoces variará ligeramente. También se puede interactuara en el botón negro del arduino, girándolo aparecerán los distintos valores de medición que se realizan: PH, humedad y gases.
 
+![](slides/32funcionamiento.jpg)
+
 ### Mantenimiento
 - Encender la CPU, pantalla y tablet.
 - Ver que la tablet tenga conexión wifi.
