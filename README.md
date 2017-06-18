@@ -63,18 +63,18 @@ paso 3
  
  Materiales de exposición:
  - Cartel informativo: A3 a color
- - Mapa: impreso por ambas caras A3 a color
+ - Mapa: A3 impreso a color por ambas caras
  - Instrucciones: A4 a color
  - Video: duración: 3 min. en bucle reproducido en pantalla de ordenador
  - CPU: reproductor de video y alimentador USB
- - Capitore: Dispositivo que contiene altavoces, tablet y arduino
+ - Capitore: Dispositivo que contiene altavoces, tablet, arduino y botes con muestras de agua.
  
 Ensamblaje:
  - El dispositivo se conecta mediante 3 USB a la CPU que actua como alimentador.
  - Los altaves van conectados a la tablet y ardunino.
  - Todos los elementos tecnológicos van contenidos y protegidos en una caja de madera y los altavoces insertos en una pirámide de madera. Para evitar la caída del dispositivo se recomienda sujetarlo a la balda expositora mediante hilo transparente.
  
-
+ ![](slides/32montaje.jpg)
  
 ### Funcionamiento
 Encendido:
