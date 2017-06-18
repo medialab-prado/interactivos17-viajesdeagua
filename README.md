@@ -39,7 +39,7 @@ Investigaciones previas y mapas de partida:
 **Sábado 20.** Manos a la obra. Conceptualización del proyecto: estudio de cartografía georeferenciada, laboratorio portátil de Hamilton, zona de estudio acotada. Creamos nuestro diario visual en Instagram.
 ![](slides/0dv20.jpg)
 **Lunes 22.** Creamos una lista en spotify. Primer esquema de mapa. 
-
+![](slides/0dv22.jpg)
 **Martes 23.** Primer experimento: simulación sonora en la calle. Let's fake it. Mayrit.
 
 **Miércoles 24.** 
