@@ -57,7 +57,8 @@ Investigaciones previas y mapas de partida:
 **Martes 30.** Recorridos por las fuentes, recogida de muestras de agua, documentación y corte láser del capirote en madera.
 ![](slides/0dv30.jpg)
 **Miércoles 31.** Último día. Montaje del prototipo y prueba en directo durante la presentación final del proyecto.
-
+![](slides/0dv31.jpg)
+![](slides/0dv32.jpg)
 # Instrucciones
 ### Montaje y desmontaje
 
@@ -69,7 +70,7 @@ Investigaciones previas y mapas de partida:
  - Instrucciones: A4 a color
  - Video: duración: 3 min. en bucle reproducido en pantalla de ordenador
  - CPU: reproductor de video y alimentador USB
- - Capitore: Dispositivo que contiene altavoces, tablet, arduino y botes con muestras de agua.
+ - Capitore: Dispositivo que contiene altavoces, tablet, arduino con 4 sensores y botes con muestras de agua.
  
 Ensamblaje:
  - El dispositivo se conecta mediante 3 USB a la CPU que actua como alimentador.
@@ -90,7 +91,7 @@ Es necesaria una conexión wifi para la lectura de datos.
 Interacción:
 - Documentación: Videos, mapas e información del proyecto.
 - Tablet: El usuario podrá navegar por la web del proyecto visionando mapas, fotos y videos.
-- Arduino: El usuario podrá medir los diferentes parámetros del agua contenida en los tubos de ensayo. Para ello tendrá que introducir el sensor negro en los diferentes tubos con agua y en la pantalla LCD del arduino aparecerán los valores. Apartir de estos valores el sonido que emiten los altavoces variará ligeramente. También se puede interactuar con el botón negro del arduino, girándolo aparecerán los distintos valores de medición que se realizan: PH, humedad y gases.
+- Arduino: El usuario podrá medir los diferentes parámetros del agua contenida en los tubos de ensayo. Para ello tendrá que introducir el sensor negro en los diferentes tubos con agua y en la pantalla LCD del arduino aparecerán los valores. Apartir de estos valores el sonido que emiten los altavoces variará ligeramente. También se puede interactuar con el botón negro del arduino, girándolo aparecerán los distintos valores de medición que se realizan: PH, temperatura, humedad y gases.
 
 ![](slides/32funcionamiento.jpg)
 
