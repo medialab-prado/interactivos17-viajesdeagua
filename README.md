@@ -50,7 +50,8 @@ Investigaciones previas y mapas de partida:
 ![](slides/0dv26.jpg)
 **Sábado 27.** Hamilton dándole duro al Ardunio y midiendo valores de las muestras de agua.
 ![](slides/0dv27.jpg)
-**Domingo 28.** Nuevos mapas. Pruebas de app con la tablet.
+**Domingo 28.** Terminado de definir el mapa centrándonos en la ubicación de fuentes existentes y desaparecidas.
+Nuevos mapas. Pruebas de app con la tablet.
 
 **Lunes 29.** Nueva versión del prototipo: "Capirote" en cartón.
 
