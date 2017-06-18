@@ -41,8 +41,7 @@ Investigaciones previas y mapas de partida:
 **Lunes 22.** Creamos una lista en spotify. Primer esquema de mapa. 
 ![](slides/0dv22.jpg)
 **Martes 23.** Primer experimento: simulación sonora en la calle. Let's fake it. Mayrit.
-
-
+![](slides/0dv23.jpg)
 **Miércoles 24.** 
 
 **Jueves 25.** Presentación del estado del proyecto. Segunda sesión crítica. Probando la app de Mario por primera vez por el camino, algunas fuentes olvidadas.
