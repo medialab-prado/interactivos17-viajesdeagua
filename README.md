@@ -52,8 +52,8 @@ Investigaciones previas y mapas de partida:
 ![](slides/0dv27.jpg)
 **Domingo 28.** Terminado de definir los mapas centrándonos en la ubicación de fuentes existentes y desaparecidas. Pruebas de app con la tablet.
 ![](slides/0dv28.jpg)
-**Lunes 29.** Nueva versión del prototipo: "Capirote" en cartón.
-
+**Lunes 29.** Versión final del prototipo: "Capirote" en cartón.
+![](slides/0dv29.jpg)
 **Martes 30.** Recorridos por fuentes y recogida de muestras de agua.
 
 **Miércoles 31.** Último día. Montaje del prototipo y prueba en directo durante la presentación final del proyecto.
