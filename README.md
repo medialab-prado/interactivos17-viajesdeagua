@@ -72,9 +72,9 @@ paso 3
 Ensamblaje:
  - El dispositivo se conecta mediante 3 USB a la CPU que actua como alimentador.
  - Los altaves van conectados a la tablet y ardunino.
+ - Todos los elementos tecnológicos van contenidos y protegidos en una caja de madera y los altavoces insertos en una pirámide de madera. Para evitar la caída del dispositivo se recomienda sujetarlo a la balda expositora mediante hilo transparente.
  
-+ En qué puntos hay que tener cuidado
- - Arduino ???
+
  
 ### Funcionamiento
 Encendido:
@@ -88,7 +88,7 @@ Es necesaria una conexión wifi para la lectura de datos.
 Interacción:
 - Documentación: Videos, mapas e información del proyecto.
 - Tablet: El usuario podrá navegar por la web del proyecto visionando mapas, fotos y videos.
-- Arduino: El usuario podrá medir los diferentes parámetros del agua contenida en los tubos de ensayo. Para ello tendrá que introducir el sensor negro en los diferentes tubos con agua y en la pantalla LCD del arduino aparecerán los valores. Apartir de estos valores el sonido que emiten los altavoces variará ligeramente. También se puede interactuara en el botón negro del arduino, girándolo aparecerán los distintos valores de medición que se realizan: PH, humedad y gases.
+- Arduino: El usuario podrá medir los diferentes parámetros del agua contenida en los tubos de ensayo. Para ello tendrá que introducir el sensor negro en los diferentes tubos con agua y en la pantalla LCD del arduino aparecerán los valores. Apartir de estos valores el sonido que emiten los altavoces variará ligeramente. También se puede interactuar con el botón negro del arduino, girándolo aparecerán los distintos valores de medición que se realizan: PH, humedad y gases.
 
 ![](slides/32funcionamiento.jpg)
 
