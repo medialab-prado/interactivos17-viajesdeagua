@@ -42,8 +42,8 @@ Investigaciones previas y mapas de partida:
 ![](slides/0dv22.jpg)
 **Martes 23.** Primer experimento: simulación sonora en la calle. Let's fake it. Mayrit.
 ![](slides/0dv23.jpg)
-**Miércoles 24.** 
-
+**Miércoles 24.** Viaje de agua por la calle Santa Isabel, Plaza de Antón Martín, calle de Santa Ana y Plaza de Lavapiés.
+![](slides/0dv24.jpg)
 **Jueves 25.** Presentación del estado del proyecto. Segunda sesión crítica. Probando la app de Mario por primera vez por el camino, algunas fuentes olvidadas.
 
 **Viernes 26.** Primeras pruebas del prototipo. 
