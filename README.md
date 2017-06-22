@@ -42,28 +42,51 @@ Desde esa perspectiva, nuestro juego se convertiría en rito, cuyo maestro de ce
 Investigaciones previas y mapas de partida:
 ![](slides/20investigacionesprevias.jpg)
 **Viernes 19.** Se va conformando el equipo. Con la primera sesión crítica, aparecen las primeras dudas. Por recomendación de los mentores salimos a la deriva por el parque del Retiro. Buscamos inspiración en el "Huerto del Retiro" y la antigua noria. Imaginamos los primeros prototipos.
+
 ![](slides/0dv19.jpg)
+
 **Sábado 20.** Manos a la obra. Conceptualización del proyecto: estudio de cartografía georeferenciada, laboratorio portátil de Hamilton, zona de estudio acotada. Creamos nuestro diario visual en Instagram.
+
 ![](slides/0dv20.jpg)
+
 **Lunes 22.** Creamos una lista en spotify. Primer esquema de mapa. 
+
 ![](slides/0dv22.jpg)
+
 **Martes 23.** Primer experimento: simulación sonora en la calle. Let's fake it. Mayrit.
+
 ![](slides/0dv23.jpg)
+
 **Miércoles 24.** Viaje de agua por la calle Santa Isabel, Plaza de Antón Martín, calle de Santa Ana y Plaza de Lavapiés.
+
 ![](slides/0dv24.jpg)
+
 **Jueves 25.** Presentación del estado del proyecto. Segunda sesión crítica. Desarrollo de Arduino y probando la app de Mario por primera vez por el camino, algunas fuentes olvidadas.
+
 ![](slides/0dv25.jpg)
+
 **Viernes 26.** Primeras pruebas del prototipo. 
+
 ![](slides/0dv26.jpg)
+
 **Sábado 27.** Hamilton dándole duro al Ardunio y midiendo valores de las muestras de agua.
+
 ![](slides/0dv27.jpg)
+
 **Domingo 28.** Terminado de definir los mapas centrándonos en la ubicación de fuentes existentes y desaparecidas. Pruebas de app con la tablet.
+
 ![](slides/0dv28.jpg)
+
 **Lunes 29.** Versión final del prototipo: "Capirote" en cartón.
+
 ![](slides/0dv29.jpg)
+
 **Martes 30.** Recorridos por las fuentes, recogida de muestras de agua, documentación y corte láser del capirote en madera.
+
 ![](slides/0dv30.jpg)
+
 **Miércoles 31.** Último día. Montaje del prototipo y prueba en directo durante la presentación final del proyecto.
+
 ![](slides/0dv31.jpg)
 ![](slides/0dv32.jpg)
 # Instrucciones
