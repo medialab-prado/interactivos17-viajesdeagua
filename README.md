@@ -18,16 +18,23 @@ Sin embargo, de la exploración del espacio y la construcción de un nuevo mapa 
 
 "Bajo los adoquines, la playa", la que buscaban los revolucionarios franceses en mayo del 68, encarna el mensaje de una forma sutil que lucha contra lo establecido. En esta idea se condensa la visión inicial de nuestra propuesta que pone el punto de partida en un procedimiento situacionista, como técnica de experimentación. Una idea abierta a partir de la cuál incorporar nuevos conocimientos sobre la investigación biológica, la performatividad y la construcción de nuevos imaginarios.
 
-Desde esa perspectiva, el juego se convirtió en experiencia ritual, cuyo maestro de ceremonias sería la figura actualizada del "aguador" que nos reuniría en torno a fuentes "fantasmas" que ya no existen en la actualidad, para recuperar historias olvidadas como los milagros de San Isidro "zahorí". Para realizar este particular “viaje de agua” por la superficie de la ciudad, redefinimos nuestro dispositivo como objeto ritual en forma de laboratorio portátil con geolocalización amplificada. Un experimento participativo en su conjunto, que no tiene otro objetivo que servir de llamamiento al agua y, al mismo tiempo, a la atención de los ciudadanos, para compartir la visión lúdica, constructiva y sonora de este proyecto. 
-
 Aunque aquí no hay playa, la historia de la ciudad que "sobre agua [fue] edificada" está unida a su origen. Madrid debe su nombre a un asentamiento árabe "Magrit", que significa cauce, que antes fue uno visigodo "Matrice" y cuyo significado es arroyo. De su memoria también recuperamos para el título del proyecto, Viajes de agua, el nombre dado al conjunto de conducciones subterráneas que canalizaban el agua de diferentes acuíferos del terreno ocupado por la ciudad en la época medieval.
 
 ### Implementación del proyecto
-Explicación de cómo se ha hecho: materiales, procesos, conexiones, etc. 
-(Nota: los textos explicativos han de ser claros y suficientes para que otra persona pudiera retomar este proyecto)
-paso 1
-paso 2 
-paso 3
+
+Una vez conformado el equipo de trabajo, alcanzamos diferentes fases desde la idea inicial hasta llegar a una conceptualización -fusión de nuevas visiones y soluciones que se fueron dando-.
+ 
+Primeros pasos: ¿Por qué y para qué desarrollar un dispositivo? 
+El estudio cartográfico previo fue nuestro punto de partida pero pronto nos dimos cuenta de la necesidad de pasar a la acción. Las ideas lanzadas durante los primeros días del taller, nos movieron a tratar de simular la experiencia, sin prototipo sin mapa, usando lo que teníamos a mano para experimentar. 
+ 
+Segunda fase: experiencias y búsqueda del agua.
+Con una metodología a la que llamamos “experiencias” establecimos una serie de metas a las que iríamos implementando nuevas herramientas. Realizamos diferentes tipos de pruebas simulando recorrido guiado: a través de sonidos generados o vibraciones, a la búsqueda de fuentes o signos de agua, documentación del proceso y vuelta a empezar.
+ 
+Tercer escalón: conceptualización del prototipo.
+Las conclusiones de estos experimentos fueron muy diversas. Seguir los recorridos de los mapas desarrollados, no implicaba necesariamente encontrar agua. Sin embargo, descubrimos un presente que contenía una superposición de capas de tiempo. En este punto,  entendimos el sentido de nuestro dispositivo. 
+
+El “capirote”. 
+Desde esa perspectiva, nuestro juego se convertiría en rito, cuyo maestro de ceremonias sería la figura actualizada del "aguador" que nos reuniría en torno a fuentes "fantasmas" que ya no existen en la actualidad, para recuperar historias olvidadas como los milagros de San Isidro "zahorí". Para realizar este particular “viaje de agua” por la superficie de la ciudad, redefinimos nuestro dispositivo como objeto ritual en forma de laboratorio portátil con geolocalización amplificada. Un experimento participativo en su conjunto, que no tiene otro objetivo que servir de llamamiento al agua y, al mismo tiempo, a la atención de los ciudadanos, para compartir la visión lúdica, constructiva y sonora de este proyecto.  
 
 ![](designs/images/viajesdeagua-mapa-caraB.jpg)
 
